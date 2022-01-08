@@ -9,4 +9,4 @@ var app = builder.Build();
 
 app.MapControllers();
 
-app.Run();
+app.Run(); //Código que deve ser desfeito
